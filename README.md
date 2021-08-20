@@ -12,8 +12,8 @@
 - [Email](#email)
 
 ## Installation:
-- Anyone can use this application by going to the website [here]()
-- View the repository [here]()
+- Anyone can use this application by going to the website [here](https://lit-taiga-45772.herokuapp.com/)
+- View the repository [here](https://github.com/ksapir/budget-trackers)
 
 ## Usage:
 - Simply input the details and the application will show you where you're holding.
